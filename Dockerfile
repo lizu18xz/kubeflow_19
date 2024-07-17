@@ -58,7 +58,6 @@ FROM gcr.io/ml-pipeline/visualization-server
 FROM gcr.io/ml-pipeline/workflow-controller:v3.3.10-license-compliance
 FROM gcr.io/tfx-oss-public/ml_metadata_store_server:1.14.0
 FROM ghcr.io/dexidp/dex:v2.36.0
-FROM image:
 FROM kserve/kserve-controller:v0.11.1
 FROM kserve/lgbserver:v0.11.1
 FROM kserve/models-web-app:v0.10.0
