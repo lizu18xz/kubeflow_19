@@ -1,1 +1,1 @@
-FROM docker.io/istio/pilot:1.17.5
+FROM docker.io/kubeflowkatib/enas-cnn-cifar10-cpu:v0.16.0
