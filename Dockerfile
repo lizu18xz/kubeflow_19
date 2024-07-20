@@ -1,1 +1,1 @@
-FROM docker.io/kubeflowkatib/pytorch-mnist-cpu:v0.16.0
+FROM docker.io/kubeflowmanifestswg/oidc-authservice:e236439
