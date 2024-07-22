@@ -1,1 +1,1 @@
-FROM docker.io/kubeflowmanifestswg/oidc-authservice:e236439
+FROM docker.io/metacontrollerio/metacontroller:v2.0.4
