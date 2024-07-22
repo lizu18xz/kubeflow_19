@@ -1,1 +1,1 @@
-FROM docker.io/metacontrollerio/metacontroller:v2.0.4
+FROM docker.io/seldonio/mlserver:1.3.2
