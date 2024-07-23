@@ -1,1 +1,1 @@
-FROM nvcr.io/nvidia/tritonserver:23.05-py3
+FROM quay.io/jetstack/cert-manager-cainjector:v1.12.2
