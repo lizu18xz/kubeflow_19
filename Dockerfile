@@ -1,1 +1,1 @@
-FROM gcr.io/ml-pipeline/visualization-server:2.0.3
+FROM kserve/lgbserver:v0.11.1
