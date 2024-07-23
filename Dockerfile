@@ -1,1 +1,1 @@
-FROM kserve/models-web-app:v0.10.0
+FROM nvcr.io/nvidia/tritonserver:23.05-py3
