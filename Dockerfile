@@ -1,1 +1,1 @@
-FROM gcr.io/ml-pipeline/visualization-server:latest
+FROM gcr.io/ml-pipeline/visualization-server:dummy
