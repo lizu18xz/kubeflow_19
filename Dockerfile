@@ -1,1 +1,1 @@
-FROM kserve/lgbserver:v0.11.1
+FROM kserve/models-web-app:v0.10.0
