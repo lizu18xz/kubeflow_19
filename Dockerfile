@@ -1,1 +1,1 @@
-FROM docker.io/seldonio/mlserver:1.3.2
+FROM gcr.io/ml-pipeline/visualization-server
