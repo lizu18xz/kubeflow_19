@@ -1,1 +1,1 @@
-FROM quay.io/jetstack/cert-manager-webhook:v1.12.2
+FROM gcr.io/ml-pipeline/metadata-envoy:2.0.3
