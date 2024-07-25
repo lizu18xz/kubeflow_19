@@ -1,1 +1,1 @@
-FROM gcr.io/ml-pipeline/metadata-envoy:2.0.3
+FROM kubeflow/training-operator:v1-855e096
