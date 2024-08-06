@@ -1,1 +1,1 @@
-FROM docker.io/kubeflowmanifestswg/oidc-authservice:e236439
+FROM kubeflownotebookswg/jupyter-scipy:v1.8.0
