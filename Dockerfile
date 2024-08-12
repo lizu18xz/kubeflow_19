@@ -1,1 +1,1 @@
-FROM kubeflownotebookswg/jupyter-scipy:v1.8.0
+FROM docker.io/kubeflowkatib/pytorch-mnist:v1beta1-45c5727
